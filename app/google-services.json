@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136066563073",
+    "firebase_url": "https://mobohelpware.firebaseio.com",
+    "project_id": "mobohelpware",
+    "storage_bucket": "mobohelpware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136066563073:android:ff8882ddb83546f8c49400",
+        "android_client_info": {
+          "package_name": "com.example.mobohelpware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136066563073-3062nic64cou4of68u1tdespltlt911e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobohelpware",
+            "certificate_hash": "c0bce701d4997e0f6fccbded67612713bf420051"
+          }
+        },
+        {
+          "client_id": "136066563073-df4h6msavn7mbqdeunhbn6la97s51vu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSwd_23Mk4iCFcrcRKl6Xps3qhONx8ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136066563073-df4h6msavn7mbqdeunhbn6la97s51vu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
